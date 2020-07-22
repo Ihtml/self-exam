@@ -18,13 +18,13 @@ class figure {
 };
 class triangle : public figure {
    public:
-    triangle(double h, double w) : figure(h, w) {}
-    double area() { return figure::height * figure::width / 2; }
+    triangle(double h = 0, double w = 0) : figure(h, w) {}
+    double area() { return height * width / 2; }
 };
 class rectangle : public figure {
    public:
-    rectangle(double h, double w) : figure(h, w) {}
-    double area() { return figure::height * figure::width; }
+    rectangle(double h = 0, double w = 0) : figure(h, w) {}
+    double area() { return height * width; }
 };
 
 int main() {
