@@ -7,6 +7,7 @@
 !*.cxx
 !*.c
 !*.cc
+!*.java
 !*.hpp
 !*.h
 !*.vcproj
