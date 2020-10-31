@@ -57,6 +57,18 @@
 
 ### 集合
 
+- 元素的个数称为集合的**基数**或**势**，表示为 |A|
+- N （Natural number）正整数集
+- C （Complex number set）复数集
+- Z 整数集 Z* 正整数集
+- Q（Rational number）有理数  Q_ 负有理数集 Q+ 正有理数集
+- R（Real number set）实数集
+
+
+
+
+
+
 ### 关系与函数
 
 ### 代数系统的一般概念
